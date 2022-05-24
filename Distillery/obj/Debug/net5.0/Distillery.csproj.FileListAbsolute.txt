@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.AssemblyInfo.cs
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.exe
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.deps.json
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.runtimeconfig.json
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.runtimeconfig.dev.json
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.dll
+C:\Users\user\source\repos\Distillery\Distillery\bin\Debug\net5.0\Distillery.pdb
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.dll
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\refint\Distillery.dll
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.pdb
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\Distillery.genruntimeconfig.cache
+C:\Users\user\source\repos\Distillery\Distillery\obj\Debug\net5.0\ref\Distillery.dll
